@@ -1,6 +1,8 @@
 {
 	"name": "appender",
 	"version": "1.0.0",
+	"author": "breezystatic77",
+	"repository": "https://github.com/breezystatic77/appender",
 	"main": "src/index.js",
 	"license": "MIT",
 	"scripts": {
