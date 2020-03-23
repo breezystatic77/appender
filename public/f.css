@@ -1,0 +1,7 @@
+* {
+	font-family: monospace;
+}
+
+#files a span {
+	padding: 0px 0.5em;
+}
